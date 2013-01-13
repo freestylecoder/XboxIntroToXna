@@ -1,0 +1,7 @@
+These are the files I use for my Xbox Introduction to XNA talks.
+
+The talk is usually called "Beginning Xbox 360 Development with the XNA Framework," but it has been known to change based on the needs of the talk, group, conference, etc.
+
+The initial revision of this repository includes the code that was used at CodeMash 2013. I will try to to remember to tag, as necessary, to make sure people can find the state of the demo code that matches a particular event.
+
+This project assumes you have Visual Studio 2010 and Game Studio 4 installed on your system. If you are having problems installing Game Studio 4 on Windows 8, refer to the slide deck for instructions.
